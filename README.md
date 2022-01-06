@@ -1,5 +1,5 @@
 # Tailwindcss-webSite
 # Large Screen :>
-![](Gitimage/lg.png)
+![](GitImage/lg.png)
 # Small Screen :>
-![](Gitimage/sm.png)
+![](GitImage/sm.png)
